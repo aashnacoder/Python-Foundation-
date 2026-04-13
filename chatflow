@@ -1,0 +1,52 @@
+{
+  "project_name": "AI_Marketing_Lab_1",
+  "description": "Introduction to AI concepts using Python for marketing applications",
+  "author": "Aashna",
+  "version": "1.0",
+  "modules": [
+    {
+      "title": "Introduction",
+      "content": "Basic Python print statement and setup"
+    },
+    {
+      "title": "Data in Python",
+      "topics": [
+        "Variables",
+        "Data Types",
+        "Lists"
+      ],
+      "examples": [
+        {
+          "code": "customer_name = 'Amit'\nage = 25\nis_customer = True",
+          "purpose": "Customer data representation"
+        },
+        {
+          "code": "purchases = ['Shoes', 'T-shirt', 'Watch']",
+          "purpose": "Purchase history"
+        }
+      ]
+    },
+    {
+      "title": "Decision Making",
+      "example": {
+        "code": "if income > 40000:\n    print('Likely to purchase')",
+        "purpose": "Basic predictive logic"
+      }
+    },
+    {
+      "title": "AI APIs",
+      "definition": "Interface to access AI models",
+      "platforms": [
+        "OpenAI",
+        "Google AI",
+        "Hugging Face"
+      ]
+    }
+  ],
+  "skills_gained": [
+    "Basic Python",
+    "Data Handling",
+    "Business Logic",
+    "AI Fundamentals"
+  ]
+}
